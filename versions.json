@@ -17,16 +17,23 @@
   ]
  },
  "launcher": {
-  "version": "4.3.2",
+  "version": "4.3.3",
   "date": "2026-11-07",
-  "size": 83388149,
-  "sha256": "319780e2704afad86491ae1d5aa32007bebe0596eb167d6f0796b25873bc54ba",
+  "size": 83388161,
+  "sha256": "109d232d9b01a591f3180866272a87c0906c3ba4ea0dd17a5072b6e43def5213",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.2/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.2/part01"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.3/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.3/part01"
   ]
  },
  "news": [
+  {
+   "v": "4.3.3",
+   "items": [
+    "Os jogos já não se atualizam sozinhos: quando há uma versão nova aparece o botão verde Atualizar no lugar do Jogar (dá para voltar a ligar a atualização automática no ⚙).",
+    "O MALTA continua a atualizar-se sozinho; as atualizações dos jogos não dependem dele."
+   ]
+  },
   {
    "v": "4.3.2",
    "items": [
@@ -72,13 +79,6 @@
     "Jogo novo: Quem Sabe, Sabe! O concurso de perguntas da malta, em pixel art: 15 perguntas até ao milhão, com patamares garantidos.",
     "Todos respondem ao mesmo tempo; quem erra vai para o público e vota quando alguém pede ajuda. Ajudas: 50:50, ligar ao primo Zé e perguntar ao público.",
     "Página do MALTA com todos os jogos (vídeos e imagens) e o botão para descarregar."
-   ]
-  },
-  {
-   "v": "MALTA 4.1.2",
-   "items": [
-    "Os jogos instalados atualizam-se sozinhos em segundo plano (como na Steam); o que estiver aberto atualiza quando fechares. Dá para desligar no ⚙.",
-    "Um jogo só conta como desatualizado quando o conteúdo mudou mesmo, não só o número da versão."
    ]
   }
  ],
