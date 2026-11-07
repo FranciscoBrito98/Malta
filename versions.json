@@ -28,6 +28,13 @@
  },
  "news": [
   {
+   "v": "4.3.3 · Cai ou Não Cai 0.38.9",
+   "items": [
+    "Depois da pausa (Voltar à obra) ou de uma obra nova, se o rato ficar solto aparece um botão no meio para voltar a controlar a câmara; clicar na ordem de serviço também volta ao jogo.",
+    "Quem não é o dono da sala já não perde o controlo do rato quando aparece o relatório da obra."
+   ]
+  },
+  {
    "v": "4.3.3 · Cai ou Não Cai 0.38.8",
    "items": [
     "Ponte Velha: já não se fica preso nas juntas do tabuleiro (não é preciso saltar para andar).",
@@ -73,13 +80,6 @@
     "Acabou o tremeluzir: chão das ruas, beirais dos telhados, rede do galinheiro e vedações já não piscam ao longe.",
     "Carro do vizinho e carrinha da empresa refeitos: carroçaria arredondada, vidros com pilares, faróis, matrículas, jantes de liga; galinhas a sério no galinheiro.",
     "Sem cargas em stock? A tecla B compra mais uma na obra (o dono da sala), sem voltar ao estaleiro; o aviso diz o que falta."
-   ]
-  },
-  {
-   "v": "4.3.3",
-   "items": [
-    "Os jogos já não se atualizam sozinhos: quando há uma versão nova aparece o botão verde Atualizar no lugar do Jogar (dá para voltar a ligar a atualização automática no ⚙).",
-    "O MALTA continua a atualizar-se sozinho; as atualizações dos jogos não dependem dele."
    ]
   }
  ],
@@ -448,40 +448,40 @@
    "hash": "338d6ff8b5a91da0a2fa4e343c208f500babaa66c2371f27ade2f06c94320eee"
   },
   "cai": {
-   "version": "0.38.8",
+   "version": "0.38.9",
    "date": "2026-11-07",
-   "size": 36276400,
+   "size": 36277137,
    "files": {
     "index.html": {
-     "size": 36174939,
-     "sha256": "a65d9cf6c5ab8536d89576991ded08c30e05376b0c3a8e921f61a1aa81f36bc8",
+     "size": 36175676,
+     "sha256": "5afa57cb294cfa825d7771fe15e9f45e57899963a0e4d300117f5f3a09ddadca",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.8/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.9/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 24836,
      "sha256": "c1688acba220bda80477711e7a89a146529a71f3c5cfd7e9fc654c2c67e8b0d9",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.8/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.9/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 75569,
      "sha256": "730e9a29ca181fd6868b5e7d9ccbe0af2d38b5cb0c2dacf20c49107bf0126b3e",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.8/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.9/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1056,
-     "sha256": "c35ac4cd37ea1a3e2bd24f638617ed160ee738c0b32263435314c6c59e526cd8",
+     "sha256": "d8987fad29698f3c8f6c5eed2d42b47004a2e062955909589c4d26ffd420dfce",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.8/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.9/game_json/part00"
      ]
     }
    },
-   "hash": "d874259eb623a89ce45bf6fecf2f37c22859683ae7392e593274de6be6cf9ae0"
+   "hash": "2007bb8c5176a81bae7eac263071d4cc9eb665015751d017bf1213f2b6345572"
   }
  },
  "runtime": {
