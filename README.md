@@ -1,6 +1,6 @@
 # MALTA
 
-**Jogos para jogar com a malta.** Um programa grátis para Windows com jogos feitos para jogar com os amigos: assaltos, concursos, cozinha, bilhar, mundos de blocos e mais. Sem contas, sem anúncios.
+**Jogos para jogar com a malta.** Um programa grátis para Windows com jogos feitos para jogar com os amigos: assaltos, concursos, cozinha, bilhar, mundos de blocos, demolições e mais. Sem contas, sem anúncios.
 
 - **Página do MALTA:** https://franciscobrito98.github.io/Malta/
 - **Descarregar para Windows:** [MALTA-Setup.exe](https://github.com/FranciscoBrito98/Malta/raw/builds/download/MALTA-Setup.exe)
@@ -27,6 +27,7 @@ Os jogos e o próprio MALTA atualizam-se sozinhos. Quando sai um jogo novo, apar
 | **Bilhar** | 3D, desporto: Bola 8, Bola 9 e Snooker, também contra o computador | 1 a 4 |
 | **Quadradinhos** | 3D, blocos: sobrevivência ou criativo num mundo à portuguesa | 1 a 4 |
 | **Quem Sabe, Sabe!** | Pixel art, concurso: 15 perguntas até ao milhão | 1 a 4 |
+| **Cai ou Não Cai** | 3D, demolições: cargas nos pilares certos e o prédio a cair dentro da zona | 1 a 4 |
 
 ## O programa
 
