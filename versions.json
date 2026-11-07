@@ -17,16 +17,25 @@
   ]
  },
  "launcher": {
-  "version": "4.2.0",
-  "date": "2026-11-06",
-  "size": 83200903,
-  "sha256": "8076406c36a18fa84c8661e8b6efbb2003a56ddf23335d0fa86aec5a5e11b753",
+  "version": "4.3.0",
+  "date": "2026-11-07",
+  "size": 83298338,
+  "sha256": "b340e656e248ae409ebfa95fa6e9632316c908556f8b8201ea599af40718840d",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Trafulha/builds/launcher/4.2.0/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Trafulha/builds/launcher/4.2.0/part01"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.0/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.0/part01"
   ]
  },
  "news": [
+  {
+   "v": "MALTA 4.3.0 · Cai ou Não Cai",
+   "items": [
+    "Jogo novo: Cai ou Não Cai! Uma empresa de demolições com a malta: tirem as pessoas, ponham dinamite, C4 e cargas dirigidas nos pilares certos, saiam da fita e rebentem.",
+    "Física a sério: os prédios desabam ou tombam para o lado dos pilares que tirarem. Seis obras (barracão, moradia, prédio entalado, chaminé da fábrica, ponte velha e uma torre de 8 andares) e um Caos Livre com um bairro inteiro.",
+    "Pagam conforme o que caiu, o que ficou dentro da zona marcada e os estragos (o carro do vizinho que o diga). Com o dinheiro compram cargas, a rebarbadora e um capacete dourado.",
+    "Até 4 amigos com o código da sala. Câmara lenta na primeira explosão e câmara de drone (C) para ver tudo a cair."
+   ]
+  },
   {
    "v": "Jogos 0.38.0 · Gráficos novos",
    "items": [
@@ -67,378 +76,407 @@
     "Até 4 amigos com o código da sala; o mundo fica guardado no PC de quem abre a sala.",
     "Loja: o Quadradinhos aparece em destaque."
    ]
-  },
-  {
-   "v": "MALTA 4.0.1 · jogos 0.35.0",
-   "items": [
-    "Shift+Tab dentro dos jogos: agora mostra as conquistas do jogo (desbloqueadas, por desbloquear, XP e o teu nível).",
-    "As conquistas guardadas no PC voltam a ser enviadas ao MALTA quando abres o jogo, para nenhuma se perder."
-   ]
   }
  ],
  "games": {
   "heist": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 148515024,
+   "size": 148394618,
    "files": {
     "index.html": {
-     "size": 148457362,
-     "sha256": "4729bb72e658a4fc18e586af52bf68fb4a6476be69e4ddef1dcaf280b5567a82",
+     "size": 148336956,
+     "sha256": "b417009733f136d9627147d04f7c7771acc954538013855b073bf5b5bcf1448c",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/index_html/part00",
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/index_html/part01",
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/index_html/part02",
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/index_html/part03"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/index_html/part00",
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/index_html/part01",
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/index_html/part02",
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/index_html/part03"
      ]
     },
     "cover.png": {
      "size": 9951,
      "sha256": "76f378006ffff145f6d9ebee10cc07941b6fbeb004e26a671f3a29b3e192d195",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 46642,
      "sha256": "a9279f39eaf99b53f66a959427f1dc95b72231948bc2d5b0d34a707e16474098",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1069,
-     "sha256": "d7a3a1cdf427ec0966a025da9d6fd76e59e0008aa4aac91a78dc0fc221ce1756",
+     "sha256": "da1b04593dfb5cfe811b812ef494a79b60e47dbd466673c1ad87ac6aafe39613",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/heist/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "54d86b148f9d4e9d1bf666ed75f0756153e1ccd982a35923ac11600bac819c63"
+   "hash": "0ec76392627fb9e5c4ecf5ea26848cb0e6778850742d0c36d3b5be6e8ab2629f"
   },
   "party": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 34269201,
+   "size": 34138407,
    "files": {
     "index.html": {
-     "size": 34204840,
-     "sha256": "823dce139770c14df1c7e93773aaf130ce2486223c166779cd1ebb0000c0ab70",
+     "size": 34074046,
+     "sha256": "801bebd5fd8409b5e67e2c311363c0f07ae65d811f8f390130b2e9f420bf303b",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 9504,
      "sha256": "a7da0e1d3b920cd497ba20c85a49b82cbb66a958ef27a49e75def9cc1e476e37",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 53831,
      "sha256": "24753565ad59ae0f9cacff254501a1cf493cc6fb28f192f7e44232c46f89aaa9",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1026,
-     "sha256": "a1d0685d0aba8380770767ee7fad9c973ada690fdaafdfb781433d4cb4792809",
+     "sha256": "4f24c65ab8a747032e9ebb29e3bb4e8e9be577fca81f4e34ee9c28a7a1ab41a0",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/party/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "246ba7d728b8622cc6840e28a8679831aaad24bb0ea1e4d1985e4c774f9cfafc"
+   "hash": "08b5316f94fa95d74fb3f651e97afed752dd211b6fc5e8609205c2d651317589"
   },
   "burla": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 34383650,
+   "size": 34251160,
    "files": {
     "index.html": {
-     "size": 34333535,
-     "sha256": "20cdf804f85a6e12ac7cef136be1a7cde96e97c6b3869773614b676e7101037f",
+     "size": 34201045,
+     "sha256": "766d6b877fbb040b0b1959b9e9ad93d8f1a733053857a5da8e04f13213a4966e",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 8232,
      "sha256": "f89c3084bc124ddbd5d76f52d16af19e6aff2f561498c42c0419061d56275855",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 40797,
      "sha256": "d868daa78a5696f9bb3aae27631208306d2f175814abfc00463474dbb78bb453",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1086,
-     "sha256": "f7a9b9e3e066ad4cd762ba6c054d4ea26099109f27c282833d8b5cd34c5edfc8",
+     "sha256": "075f9776050fad674a5ac76e412e0346edb15b112df40f3a6d6c651922ab962a",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/burla/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "c9085c457a83266813b3dbf5dca2b0c893b577fbfcb6413c9198e58c06e82d83"
+   "hash": "922a86113ac30afd0f1f79f8283a123eba88bad45c9a1f121afe1a9c95f32bcc"
   },
   "samurai": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6735879,
+   "size": 6605095,
    "files": {
     "index.html": {
-     "size": 6680532,
-     "sha256": "206ee3114663306d2d50e824be4f98d4b5145102f957fe44facd82b93f9753f7",
+     "size": 6549748,
+     "sha256": "5476a2842e85ea7028cf011dda6ca76952396ba744b11240bcb6b97ca58cbaa4",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 9512,
      "sha256": "729d9ced885935dcdc4acd13df20e6a28065dbb0a15648607ad2be2d02a2efdc",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 44844,
      "sha256": "f64534ca660ee041c2131dd1e0da5a34bf80bed3e3e2f1c8b2791a27dc84b518",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 991,
-     "sha256": "c3b9129b62279c42398fc9b1b90ed57569306c0cdf9fe12d2aaec9930df0fe53",
+     "sha256": "8ea1ac1ad871bc934a715ae1a02097de9f9cb2eb42188bc6b9483f8f8e0e5138",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/samurai/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "17f2106bc33d2ba103023b07bf85938be653ba3a26885118bf142b376bab9f29"
+   "hash": "9159075fb06878648669d7e05ed3cdc05663c8f2cc96fd92a0d107376d28ecb3"
   },
   "pixel": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6937457,
+   "size": 6805045,
    "files": {
     "index.html": {
-     "size": 6883244,
-     "sha256": "b51934a3e01eed2c06e32a1e36ed1c89d8a0bad68891405b22cdcbc0e5f24fce",
+     "size": 6750832,
+     "sha256": "a79a329d2d51bca58b08ebe76994665e0d9ed4862ae1931678cc7581450fd06e",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 8294,
      "sha256": "0e34d79fe4caec6cdb680232733b3ce725a8b33d8f1ef516c34f9eba80020213",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 44939,
      "sha256": "7a196d123adc1c7531c6e2e0e6de750a2f1b8dc639d98e0fd91a2483c5959168",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 980,
-     "sha256": "11cf2ade4599db22395884b3934ad1c9374312b58ad3aa45aab8256409a38a33",
+     "sha256": "1e436312e8d9e515714fa123059cc22666c567b78612007fe09aee16ba726794",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pixel/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "269ec7767f26c6ec399ee4044c4d4100033d0d882ad1f7e9422b9ff3c535ed21"
+   "hash": "aeb558f7ecb5540efc82bdff717542428f4d6e01d9204931ffd67f9319fb5ff0"
   },
   "tasca": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6647463,
+   "size": 6512209,
    "files": {
     "index.html": {
-     "size": 6595017,
-     "sha256": "20c58789c11542e264b5d6d8bef10254315a955bfc755809ea2aaf581701101f",
+     "size": 6459763,
+     "sha256": "444b49be0493cfb6734e5ad4f610aa93099671bd39eae99fac9fc334b9cc6eed",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 6161,
      "sha256": "57217f53ec9b638581d703bcb10fe9f9d8f99f60750563d782fda1ce7b264c1c",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 45305,
      "sha256": "d3646b06710dab9e88c7e740978d647600aac8e040852003c7628f49e95ca544",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 980,
-     "sha256": "87845e38ebdf3fd9690d93809d5351e0bf403fcbfc0b3f8ff18214e2f71a63c8",
+     "sha256": "eca7328e25b6caa40a75f825dd1298d811b83901150d6d1690906cef9cab12fe",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/tasca/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "e2f8663768144906a17140fd1aa558551d5a05f397461ba2faaf966acbaa2bfb"
+   "hash": "cc43c3095c78a0009019ef7d037fad7071bf25b5e6e8e24b4a6406c4c6b72b2c"
   },
   "mudancas": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6629374,
+   "size": 6495923,
    "files": {
     "index.html": {
-     "size": 6577481,
-     "sha256": "019dceb3e85ec1c91df7ff751d343e2c9db610cefa5319dc2e48718813668899",
+     "size": 6444030,
+     "sha256": "e5be31a10ee72ad50e28a830b9a68d1036be3a2e3860dd62b6c5b9b5e25c7330",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 7513,
      "sha256": "f032a69a37c6d7b79c2c55f9f5ab3787244eb23e893fa4d1b734f271adebcb85",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 43365,
      "sha256": "ac417c6fa22b442c7b093fdaaf248a56a71438216d52944c7103a253c0604799",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1015,
-     "sha256": "68918cb9a6887b05a20cf0ba5f1daf48a1193a6303bff3329c90cd23161aaa24",
+     "sha256": "11486857d552eace39428afdcccb18df702e18890712578c78cae222a7ed999e",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/mudancas/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "4fa8e739990bf1256db46081b380e86bf778f51fc0237b24160cb96d63fd8e2c"
+   "hash": "36f896ab489fe079f2cda2d4cfab8d80daf4d5e9baed94a6367682dcb8170507"
   },
   "bilhar": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6530159,
+   "size": 6396454,
    "files": {
     "index.html": {
-     "size": 6493579,
-     "sha256": "4d9c448f682a6c687d13f8cc6291c7f983dee12ec4a1e200421337a520adaa3d",
+     "size": 6359874,
+     "sha256": "d3e038d70977525a6601036e7940d4a1862a9160fdacd17cb1a03b878116842a",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 7319,
      "sha256": "d27d3558f1836499a49b032db13127f431ae574bf1318cac7a00f19878b47fc8",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 28224,
      "sha256": "99d0fda20ccb910cba7ffd8d39717d0ea30a854af1461f67d0ad5ea6b81ea50e",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1037,
-     "sha256": "32c98e4526b5e0cc4b121a20716c59e1b6eb9439d9cfecb9a49e574e18405d85",
+     "sha256": "458bff02b42276d0a00104b00ab2b2bdb8f00fc2d2611a2b5ab843173056332e",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bilhar/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "aeb40031fba8cede1325e2f3d7e2b4af30086d62a97e37069ab3d9c83b64a60b"
+   "hash": "2493f508290047a803c32f5f3eba343d373f8e9516951609ad118052d80c8053"
   },
   "quadradinhos": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6646128,
+   "size": 6535189,
    "files": {
     "index.html": {
-     "size": 6541598,
-     "sha256": "b98d5a7ee718653ad21de82ff6a58a4ee6cceb13b3fedad6884f2e7da16ce511",
+     "size": 6430659,
+     "sha256": "799f64214c25b35defe7c23210cf2a3dea307875d66d01b63dee620be644d6b1",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 24388,
      "sha256": "cb9842185c83cba6d502d9b4b0599fc8f050df240bce143ea0de192ea68e7c05",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 79075,
      "sha256": "3668719c3c9bf79f1426df87f8dcea8171cb4c470b2abe43ab1c71c5319c31f7",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1067,
-     "sha256": "8f7982649503c1719924c00431ad68316529242df00242d109c6242d855871a5",
+     "sha256": "40368c44350d00b08788aababdaa85d72950e9b72f1f1bc106dd4ebd95291dd4",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "b409862c6649d12e3983e431ba66d5eacb8144df32490e415be8228b9566a37f"
+   "hash": "eb5456beaa49c73fb36d787208175acf6e419d95ba079ac7b52b87d1c9c84a15"
   },
   "quemsabe": {
-   "version": "0.38.0",
+   "version": "0.38.1",
    "date": "2026-11-07",
-   "size": 6599504,
+   "size": 6477793,
    "files": {
     "index.html": {
-     "size": 6524707,
-     "sha256": "435b1b7b1d3f6a6c675d8087a63ba97288dd9f8998707ff101a53fd23ca6d73b",
+     "size": 6402996,
+     "sha256": "124fccf7ce55d7faa65043e47a5a0ecb9e0cf2bf590c1033e5e340dd9a27603a",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.0/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 16313,
      "sha256": "5e6b3dd7962de283ab565789708909e9b252b871a568738ad5dced050735c278",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.0/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 57419,
      "sha256": "45c598b913179957812541d0e5c091d80421c2e36fef3a83844298a027f43a64",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.0/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1065,
-     "sha256": "841d4b65c65ec943b719bba31c2e8df9f69a48acec96604b3601098f0f3b4e81",
+     "sha256": "3ee5930b61d110ac27e0d2b58da3315b1b9ba8115696687749da24d849906128",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.0/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/game_json/part00"
      ]
     }
    },
-   "hash": "f3d93078182cd075b790315a7bb3903f98b38d8e53cee0f55fffa7cdc3b229b6"
+   "hash": "338d6ff8b5a91da0a2fa4e343c208f500babaa66c2371f27ade2f06c94320eee"
+  },
+  "cai": {
+   "version": "0.38.0",
+   "date": "2026-11-07",
+   "size": 36087772,
+   "files": {
+    "index.html": {
+     "size": 36019080,
+     "sha256": "f0a7774c4a5a1002b2086865f2a3c446db40c18164654f6302b0fcfffcb8fc10",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 15577,
+     "sha256": "5cec625436724b9b41577e45d887154666b423837fb6984ecb0bf37de3888b9b",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 52059,
+     "sha256": "db5350c11ee369090f82814038dc221ef020145842115aae5990ca9676a09cc9",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1056,
+     "sha256": "7fe136fcf198789893246dbbba4dd04d97a563c6b6d544553e555e800b9edb2d",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/cai/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "e34fbf012e0647fa292e30cdcef5e523779566b59f4db88fe84f0dc33eb4d6e2"
   }
  },
  "runtime": {
