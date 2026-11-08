@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.3.7",
+  "version": "4.3.8",
   "date": "2026-11-08",
-  "size": 83975414,
-  "sha256": "e6288939251a10878e8bab09718f17e197d1a95b81f583415e1f42a80fd8b66e",
+  "size": 84018791,
+  "sha256": "f6b71a5c51ed01287797db2d1a444088bb745d667e8c350a2a068dd81f5956ab",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.7/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.7/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.7/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.8/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.8/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.8/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.3.8 · Bairro à Venda 0.38.0",
+   "items": [
+    "Jogo novo: Bairro à Venda. Jogo de tabuleiro em pixel art na Vila da Malta (inventada): compra ruas, junta bairros, constrói casas e prédios e cobra rendas. Dinheiro a fingir (patacos).",
+    "De 2 a 6 jogadores, com bots a completar os lugares. Leilões quando ninguém compra, negócios entre jogadores, hipotecas, Esquadra e cartas do Correio e da Rifa.",
+    "Fim por voltas ou até sobrar um; multas para o Jardim e tempo por vez são opções.",
+    "Os amigos entram com o código da sala; quem chega a meio fica com o lugar de um bot e quem sai passa a bot."
+   ]
+  },
   {
    "v": "4.3.7 · Póquer da Malta 0.38.0",
    "items": [
@@ -67,15 +76,6 @@
     "Chat com a tecla T, quem entra e sai, e comandos: /tp, /clear, /dia, /noite, /dar, /casa, /cama, /curar, /quem, /msg e mais (/ajuda). Tab mostra os jogadores.",
     "Escadas de madeira e de pedra, fornalha nova com boca de fogo e chaminé, a vaca precisa de 3 pancadas e já não entra nos blocos.",
     "Escolhe a tua personagem (16, com filtro masculino e feminino) no ecrã dos mundos ou com a tecla P."
-   ]
-  },
-  {
-   "v": "4.3.4 · Linha de Fogo 0.38.0",
-   "items": [
-    "Jogo novo: Linha de Fogo. Tiroteio tático na primeira pessoa na Fábrica Velha, um mapa novo com dois alvos (A nas prensas, B nas caldeiras), meio, túnel e corredor comprido.",
-    "Modos: Carga (rondas de assaltantes contra guardas, compras no início, pôr ou desarmar a carga), Equipas, Cada um por si e Escada de armas. Escolhe-se tudo no painel da partida (tecla M).",
-    "Bots com três dificuldades completam as equipas até 5 contra 5. Os amigos entram com o código da sala.",
-    "Sete armas, navalha, colete e capacete, alicate de corte, granada, fumo e clarão. B abre a loja, Tab mostra a pontuação."
    ]
   }
  ],
@@ -550,6 +550,42 @@
     }
    },
    "hash": "0210dfdce22866a3d921650ecd5636959b220d335e9c79ac402f3773342682a3"
+  },
+  "bairro": {
+   "version": "0.38.0",
+   "date": "2026-11-08",
+   "size": 6483636,
+   "files": {
+    "index.html": {
+     "size": 6436462,
+     "sha256": "339a286c4ece0399fefea4ff40fb8af8c6baf968c34cf3c9a2b84492efdbf7a1",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 7062,
+     "sha256": "5f1ae51e6b373c447ff34d0a7c2f592b3cb0f077d904b182463c18ea4f63264f",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 39078,
+     "sha256": "544b6c053a2305220262143008af5b0bbf61dc6fad955e77fbd0a85e66b630a7",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1034,
+     "sha256": "33d05bfc694228a8786e100befee2807389a3666eb5f6d5e6f1b99a8eaf5d91c",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "1df161b8880d72ed4231cc32aec7f1cf9fd17f7805801b3a7b8ae9adc590439b"
   }
  },
  "runtime": {
