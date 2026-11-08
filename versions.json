@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.3.8",
+  "version": "4.3.9",
   "date": "2026-11-08",
-  "size": 84018791,
-  "sha256": "f6b71a5c51ed01287797db2d1a444088bb745d667e8c350a2a068dd81f5956ab",
+  "size": 84019367,
+  "sha256": "7055b1540a8dd172a37096b11b23f6043474109d4da624143b8a9545d275ced5",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.8/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.8/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.8/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.9/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.9/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.9/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.3.9 · Quem Sabe, Sabe! 0.38.3",
+   "items": [
+    "Quem Sabe, Sabe!: mais 118 perguntas novas e duas categorias novas, Tecnologia e Jogos e Cinema e Música.",
+    "Quem Sabe, Sabe!: as perguntas variam mais: cada concurso vai rodando pelas categorias e nunca repete a categoria da pergunta anterior.",
+    "Quem Sabe, Sabe!: a conquista O Último em Pé já se ganha quando os outros erram, desistem ou saem e tu continuas.",
+    "MALTA: desinstalar um jogo apaga também as sobras de atualizações e motores antigos, mostra quanto espaço libertou e já não falha quando o Windows prende algum ficheiro."
+   ]
+  },
   {
    "v": "4.3.8 · Bairro à Venda 0.38.0",
    "items": [
@@ -66,16 +75,6 @@
    "v": "4.3.5",
    "items": [
     "O jogo Linha de Fogo saiu do MALTA."
-   ]
-  },
-  {
-   "v": "4.3.4 · Quadradinhos 0.38.3",
-   "items": [
-    "Quadradinhos: a cama já não treme e dá para dormir a partir do fim da tarde.",
-    "Sons novos para cada material ao partir, pôr e andar (pedra, madeira, terra, areia, folhas, vidro), portas e baús, apanhar coisas, e vozes novas para vacas, galinhas e porcos.",
-    "Chat com a tecla T, quem entra e sai, e comandos: /tp, /clear, /dia, /noite, /dar, /casa, /cama, /curar, /quem, /msg e mais (/ajuda). Tab mostra os jogadores.",
-    "Escadas de madeira e de pedra, fornalha nova com boca de fogo e chaminé, a vaca precisa de 3 pancadas e já não entra nos blocos.",
-    "Escolhe a tua personagem (16, com filtro masculino e feminino) no ecrã dos mundos ou com a tecla P."
    ]
   }
  ],
@@ -408,40 +407,40 @@
    "hash": "55411456e2c991f5cd3b13b5b70e6d00f9c08de564b750ac9ccd0a743ab364b6"
   },
   "quemsabe": {
-   "version": "0.38.2",
+   "version": "0.38.3",
    "date": "2026-11-08",
-   "size": 6493434,
+   "size": 6518462,
    "files": {
     "index.html": {
-     "size": 6418637,
-     "sha256": "c77ee8dae6400ff3df17eaa1b35fef88488744594d4ee397920f6ca55e3e8ce3",
+     "size": 6443665,
+     "sha256": "85db45605d9a0a2918a53651dc50c7a8d7d12aef5825624597d7a5a05f779a99",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 16313,
      "sha256": "5e6b3dd7962de283ab565789708909e9b252b871a568738ad5dced050735c278",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 57419,
      "sha256": "45c598b913179957812541d0e5c091d80421c2e36fef3a83844298a027f43a64",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1065,
-     "sha256": "99531055624f7128e648910d873ffd90ee8818787d07b9dff75e7a57fa359f75",
+     "sha256": "c55a0044e347ab404e1b8c586de05832c3c102176be6ddbdadae3f87d884c649",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/game_json/part00"
      ]
     }
    },
-   "hash": "33e2c1f85c95deecf9e3fd661b908c5061a870d7409931093f9830b193997d03"
+   "hash": "b1bfce1f3517d72527eb96a697237d9f9ce15987f9a9bca1f4daa12746a25d29"
   },
   "cai": {
    "version": "0.38.9",
