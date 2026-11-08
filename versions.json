@@ -29,6 +29,12 @@
  },
  "news": [
   {
+   "v": "Quem Sabe, Sabe! 0.38.4",
+   "items": [
+    "Quem Sabe, Sabe!: as vitórias só contam quando chegas ao milhão. A contagem que já tinhas passa a ser a dos milhões ganhos."
+   ]
+  },
+  {
    "v": "4.3.9 · Quem Sabe, Sabe! 0.38.3",
    "items": [
     "Quem Sabe, Sabe!: mais 161 perguntas novas (379 no total) e duas categorias novas, Tecnologia e Jogos e Cinema e Música.",
@@ -69,12 +75,6 @@
    "items": [
     "Quem Sabe, Sabe!: categorias para escolher antes de começar (Geografia, História, Ciência e Natureza, Artes e Letras, Sabores e Tradições, Desporto, Dia a dia e Números), com perguntas novas.",
     "No menu aparecem as tuas vitórias, o dinheiro ganho no total de todas as partidas e o melhor prémio."
-   ]
-  },
-  {
-   "v": "4.3.5",
-   "items": [
-    "O jogo Linha de Fogo saiu do MALTA."
    ]
   }
  ],
@@ -407,40 +407,40 @@
    "hash": "55411456e2c991f5cd3b13b5b70e6d00f9c08de564b750ac9ccd0a743ab364b6"
   },
   "quemsabe": {
-   "version": "0.38.3",
+   "version": "0.38.4",
    "date": "2026-11-08",
-   "size": 6518462,
+   "size": 6518587,
    "files": {
     "index.html": {
-     "size": 6443665,
-     "sha256": "85db45605d9a0a2918a53651dc50c7a8d7d12aef5825624597d7a5a05f779a99",
+     "size": 6443790,
+     "sha256": "6660924e501f97c4905fa90d74a32ccecd0a2adb6d9c38d5d786be755f6d68d4",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.4/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 16313,
      "sha256": "5e6b3dd7962de283ab565789708909e9b252b871a568738ad5dced050735c278",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.4/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 57419,
      "sha256": "45c598b913179957812541d0e5c091d80421c2e36fef3a83844298a027f43a64",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.4/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1065,
-     "sha256": "c55a0044e347ab404e1b8c586de05832c3c102176be6ddbdadae3f87d884c649",
+     "sha256": "007bc68cd77c6e315edefa0485b2044c35d324a3dec597e5afdad974043de539",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.3/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.4/game_json/part00"
      ]
     }
    },
-   "hash": "b1bfce1f3517d72527eb96a697237d9f9ce15987f9a9bca1f4daa12746a25d29"
+   "hash": "552e382cf12fe746bfb31ab6217e4c7784ebe223210743750a38277daa2fb46e"
   },
   "cai": {
    "version": "0.38.9",
