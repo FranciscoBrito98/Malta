@@ -17,16 +17,22 @@
   ]
  },
  "launcher": {
-  "version": "4.3.4",
-  "date": "2026-11-07",
-  "size": 83578518,
-  "sha256": "8d4f2705a4b2ae1f223dd30b3604f19c51dd9165d3f62f19d0c020235b091cd0",
+  "version": "4.3.5",
+  "date": "2026-11-08",
+  "size": 83388215,
+  "sha256": "fdbd4e8cc3a18d3b09a54751b98d920b20c0f4220cedae16e34faed01941afe1",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.4/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.4/part01"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.5/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.5/part01"
   ]
  },
  "news": [
+  {
+   "v": "4.3.5",
+   "items": [
+    "O jogo Linha de Fogo saiu do MALTA."
+   ]
+  },
   {
    "v": "4.3.4 · Quadradinhos 0.38.3",
    "items": [
@@ -69,17 +75,6 @@
     "Quadradinhos: a Coca de Monção, um dragão que se chama com o Corno da Coca. F5 para a terceira pessoa, ver os outros agachados e com o que têm na mão, dormir a sério e renascer ao lado da cama.",
     "Quadradinhos: receitas mais fáceis (separadores, procura e ingredientes com ícones), sons dos bichos e de comer, texturas novas, nuvens sem riscas, sombras sem tremer, sem música de fundo e o rato aparece nos painéis.",
     "Cai ou Não Cai: muito menos pó no ar e o rato aparece no relatório da obra."
-   ]
-  },
-  {
-   "v": "4.3.3 · Cai ou Não Cai 0.38.6",
-   "items": [
-    "Muito mais leve: as peças paradas desenham-se juntas (o prédio e a torre passaram de milhares de desenhos por imagem para poucas centenas), as pedras que já assentaram deixam de ser simuladas e o fumo das explosões gasta muito menos.",
-    "Já não aparecem retângulos pretos no meio do pó nem atrás das portas, e a varanda já não pisca por baixo.",
-    "Cada um tem o seu dinheiro e as suas cargas: compra-se com o próprio dinheiro e cada um recebe o pagamento da obra. G larga uma carga no chão para um amigo, E (ou passar por cima) apanha; botão direito tira uma carga já posta.",
-    "Rachas: as peças vão rachando a cada pancada da marreta ou enquanto se corta com a rebarbadora.",
-    "A Ponte Velha: nasce-se em cima da margem. Obras com um bloco encostado a um vizinho já acabam. No Caos Livre dá para pôr cargas enquanto ainda está a rebentar.",
-    "Carrinha da empresa nova."
    ]
   }
  ],
@@ -482,42 +477,6 @@
     }
    },
    "hash": "2007bb8c5176a81bae7eac263071d4cc9eb665015751d017bf1213f2b6345572"
-  },
-  "fogo": {
-   "version": "0.38.0",
-   "date": "2026-11-07",
-   "size": 34597954,
-   "files": {
-    "index.html": {
-     "size": 34512922,
-     "sha256": "731a3adb8018da70825ea9cfb72dfe0f8b660b7ea21374e2ba02ebc94e284d14",
-     "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/fogo/0.38.0/index_html/part00"
-     ]
-    },
-    "cover.png": {
-     "size": 20437,
-     "sha256": "4a968ab2a6a142b200ab93a7d6e0d2bad6799f7eef77bd0f130cb4bbd7301016",
-     "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/fogo/0.38.0/cover_png/part00"
-     ]
-    },
-    "icon.ico": {
-     "size": 63542,
-     "sha256": "2bb37dfae1ca36ef0fb27a5605d8561a60f8ed6343f5c3b1eefcce6c25068bf2",
-     "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/fogo/0.38.0/icon_ico/part00"
-     ]
-    },
-    "game.json": {
-     "size": 1053,
-     "sha256": "5f24db65774ca60ddb76a7252de5b8849b241e380f6245a914dd918345f77147",
-     "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/fogo/0.38.0/game_json/part00"
-     ]
-    }
-   },
-   "hash": "0c2a03098dfee642896a265cbf3d19aa7f823865d3f9da06aee061a36225810e"
   }
  },
  "runtime": {
