@@ -17,16 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.3.6",
+  "version": "4.3.7",
   "date": "2026-11-08",
-  "size": 83863153,
-  "sha256": "ea801ae082b769aa88ee6f80120800e3e5f88fa2d250b9b450aa19d94ce1057b",
+  "size": 83975414,
+  "sha256": "e6288939251a10878e8bab09718f17e197d1a95b81f583415e1f42a80fd8b66e",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.6/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.6/part01"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.7/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.7/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.7/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.3.7 · Póquer da Malta 0.38.0",
+   "items": [
+    "Jogo novo: Póquer da Malta. Texas Hold'em em pixel art com fichas a fingir (aqui não se joga dinheiro), de 2 a 8 à mesa, com bots a completar os lugares.",
+    "Dois modos: Torneio (as blinds sobem e ganha o último com fichas) e Mesa livre (blinds fixas, quem fica sem fichas recarrega e no fim fazem-se as contas).",
+    "Bots com feitio próprio (cautelosos, agressivos e de bluff), potes laterais, mostra das cartas com a mão vencedora acesa, histórico (L), ordem das mãos (H) e chat (T).",
+    "Os amigos sentam-se com o código da sala; na mesa livre também dá para entrar a meio."
+   ]
+  },
   {
    "v": "4.3.6 · Traidor na Quinta 0.38.0",
    "items": [
@@ -66,13 +76,6 @@
     "Modos: Carga (rondas de assaltantes contra guardas, compras no início, pôr ou desarmar a carga), Equipas, Cada um por si e Escada de armas. Escolhe-se tudo no painel da partida (tecla M).",
     "Bots com três dificuldades completam as equipas até 5 contra 5. Os amigos entram com o código da sala.",
     "Sete armas, navalha, colete e capacete, alicate de corte, granada, fumo e clarão. B abre a loja, Tab mostra a pontuação."
-   ]
-  },
-  {
-   "v": "4.3.3 · Cai ou Não Cai 0.38.9",
-   "items": [
-    "Depois da pausa (Voltar à obra) ou de uma obra nova, se o rato ficar solto aparece um botão no meio para voltar a controlar a câmara; clicar na ordem de serviço também volta ao jogo.",
-    "Quem não é o dono da sala já não perde o controlo do rato quando aparece o relatório da obra."
    ]
   }
  ],
@@ -511,6 +514,42 @@
     }
    },
    "hash": "6561ed9e3af16337eb86e4f201bd206910d8e76b0a9ab39fd0e04ce2e606923c"
+  },
+  "poker": {
+   "version": "0.38.0",
+   "date": "2026-11-08",
+   "size": 6561050,
+   "files": {
+    "index.html": {
+     "size": 6460570,
+     "sha256": "72f32761b45e866594d6f41620303aa030d9d32493275a658a79f0a186626269",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/poker/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 26092,
+     "sha256": "ba6e5f3364fc8a2617619dfaf6aef1374c5f9524b26430a5d7123198c809f60f",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/poker/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 73383,
+     "sha256": "d5cbf70b05f16532965c83127cc971b9afd71106537e0a135a94e1f6572ea48f",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/poker/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1005,
+     "sha256": "fdcd9b73377b5e4702017d503e675d19cc79986f025577aa85ef46acbc7863c6",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/poker/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "0210dfdce22866a3d921650ecd5636959b220d335e9c79ac402f3773342682a3"
   }
  },
  "runtime": {
