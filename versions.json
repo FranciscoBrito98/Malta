@@ -28,6 +28,16 @@
  },
  "news": [
   {
+   "v": "4.3.4 · Quadradinhos 0.38.3",
+   "items": [
+    "Quadradinhos: a cama já não treme e dá para dormir a partir do fim da tarde.",
+    "Sons novos para cada material ao partir, pôr e andar (pedra, madeira, terra, areia, folhas, vidro), portas e baús, apanhar coisas, e vozes novas para vacas, galinhas e porcos.",
+    "Chat com a tecla T, quem entra e sai, e comandos: /tp, /clear, /dia, /noite, /dar, /casa, /cama, /curar, /quem, /msg e mais (/ajuda). Tab mostra os jogadores.",
+    "Escadas de madeira e de pedra, fornalha nova com boca de fogo e chaminé, a vaca precisa de 3 pancadas e já não entra nos blocos.",
+    "Escolhe a tua personagem (16, com filtro masculino e feminino) no ecrã dos mundos ou com a tecla P."
+   ]
+  },
+  {
    "v": "4.3.4 · Linha de Fogo 0.38.0",
    "items": [
     "Jogo novo: Linha de Fogo. Tiroteio tático na primeira pessoa na Fábrica Velha, um mapa novo com dois alvos (A nas prensas, B nas caldeiras), meio, túnel e corredor comprido.",
@@ -70,16 +80,6 @@
     "Rachas: as peças vão rachando a cada pancada da marreta ou enquanto se corta com a rebarbadora.",
     "A Ponte Velha: nasce-se em cima da margem. Obras com um bloco encostado a um vizinho já acabam. No Caos Livre dá para pôr cargas enquanto ainda está a rebentar.",
     "Carrinha da empresa nova."
-   ]
-  },
-  {
-   "v": "4.3.3 · Cai ou Não Cai 0.38.5",
-   "items": [
-    "Obras deitadas abaixo à marreta ou à rebarbadora acabam sozinhas quando tudo assenta; a lista de tarefas marca as cargas e os estragos certos.",
-    "Rebentar com alguém lá dentro dá fim de jogo: a obra falha, não há pagamento, e dá para tentar outra vez (R) ou voltar ao estaleiro.",
-    "O quadro das obras no estaleiro risca as obras feitas e diz quantas faltam.",
-    "Sem tremedeiras: o andar e as mãos balançam de forma suave, as sombras já não tremem ao andar, e o arranque e a paragem são mais rápidos.",
-    "Mais leve: casas, carros, estaleiro e cenário juntam-se em poucas malhas (menos trabalho para o computador). Carro do vizinho com tejadilho e vidros novos."
    ]
   }
  ],
@@ -376,40 +376,40 @@
    "hash": "836bef2536f226b2daa0a6b393aa6451cf694213f680a7e4d6d237c6f2fe42f5"
   },
   "quadradinhos": {
-   "version": "0.38.2",
-   "date": "2026-11-07",
-   "size": 6580224,
+   "version": "0.38.3",
+   "date": "2026-11-08",
+   "size": 6612965,
    "files": {
     "index.html": {
-     "size": 6475694,
-     "sha256": "0c9023868aae5ac17f817759249af2e866e618edd04a03f49840efd73a2261c8",
+     "size": 6508435,
+     "sha256": "0dc84e8f292d28d288fac011429cc6ece9a2818fb3d16b410523d6306fccb133",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.2/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.3/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 24388,
      "sha256": "cb9842185c83cba6d502d9b4b0599fc8f050df240bce143ea0de192ea68e7c05",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.2/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.3/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 79075,
      "sha256": "3668719c3c9bf79f1426df87f8dcea8171cb4c470b2abe43ab1c71c5319c31f7",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.2/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.3/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1067,
-     "sha256": "de2a0bd39710b753171b8538b7f83d316a6f1678157bb1e7a212b9866d5fcfff",
+     "sha256": "5a5cb64e62460e1f3bec72caf794728bb03c0b452f5bb6cac74186afc5f709a6",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.2/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quadradinhos/0.38.3/game_json/part00"
      ]
     }
    },
-   "hash": "7041764ff24aba9a02ac536ffc40667043082cbc2d1aa2e700ca279944206044"
+   "hash": "55411456e2c991f5cd3b13b5b70e6d00f9c08de564b750ac9ccd0a743ab364b6"
   },
   "quemsabe": {
    "version": "0.38.1",
