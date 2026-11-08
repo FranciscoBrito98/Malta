@@ -29,6 +29,14 @@
  },
  "news": [
   {
+   "v": "Bairro à Venda 0.38.2",
+   "items": [
+    "Bairro à Venda: ecrã arrumado como um tabuleiro clássico: o tabuleiro ao meio, os jogadores à esquerda e só os botões que dão jeito à direita.",
+    "Bairro à Venda: no meio do tabuleiro ficam só o nome, os montes do Correio e da Rifa e os dados; as escrituras aparecem quando compras ou passas o rato numa rua.",
+    "Bairro à Venda: as tuas ruas e o histórico de jogadas abrem-se com um botão (o histórico também com L)."
+   ]
+  },
+  {
    "v": "Bairro à Venda 0.38.1",
    "items": [
     "Bairro à Venda: a rua à venda aparece como uma escritura, com o preço, todas as rendas e quantas ruas do bairro já tens.",
@@ -68,15 +76,6 @@
     "Dois modos: Torneio (as blinds sobem e ganha o último com fichas) e Mesa livre (blinds fixas, quem fica sem fichas recarrega e no fim fazem-se as contas).",
     "Bots com feitio próprio (cautelosos, agressivos e de bluff), potes laterais, mostra das cartas com a mão vencedora acesa, histórico (L), ordem das mãos (H) e chat (T).",
     "Os amigos sentam-se com o código da sala; na mesa livre também dá para entrar a meio."
-   ]
-  },
-  {
-   "v": "4.3.6 · Traidor na Quinta 0.38.0",
-   "items": [
-    "Jogo novo: Traidor na Quinta. Dedução social em pixel art na vindima de uma quinta do Douro, de 4 a 12 jogadores (os bots completam).",
-    "Os vindimadores fazem tarefas (apanhar uvas, pisar o lagar, encher pipas, dar milho às galinhas e mais); os sabotadores escondidos derrubam gente, sabotam as luzes, pegam fogo à adega e ao celeiro, fecham portas e fogem pelos alçapões.",
-    "Corpo encontrado (R) ou sino tocado (E): reunião com conversa e votação para correr alguém da quinta.",
-    "Os amigos entram com o código da sala; as regras escolhem-se no pátio."
    ]
   }
  ],
@@ -553,40 +552,40 @@
    "hash": "0210dfdce22866a3d921650ecd5636959b220d335e9c79ac402f3773342682a3"
   },
   "bairro": {
-   "version": "0.38.1",
+   "version": "0.38.2",
    "date": "2026-11-08",
-   "size": 6504507,
+   "size": 6504901,
    "files": {
     "index.html": {
-     "size": 6457333,
-     "sha256": "713ccab4ecad3d4aa74dabdd9399afa99580fbaa235130c2b5ebb6d46ab4617e",
+     "size": 6457727,
+     "sha256": "5f90be4650312a2198f9b1511ac8d8639cd2657650a39fb4cf0551768a2d06f7",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.1/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.2/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 7062,
      "sha256": "5f1ae51e6b373c447ff34d0a7c2f592b3cb0f077d904b182463c18ea4f63264f",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.1/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.2/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 39078,
      "sha256": "544b6c053a2305220262143008af5b0bbf61dc6fad955e77fbd0a85e66b630a7",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.1/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.2/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1034,
-     "sha256": "75a18c4baac87627629fa204e6b4178d02d7abe9842451002ee62ad86c039daf",
+     "sha256": "e1e7e90d4ec3e491763543998d2a7411a3dc3a563b44c2e5fa95cf8ebbb8463a",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.1/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/bairro/0.38.2/game_json/part00"
      ]
     }
    },
-   "hash": "8812f3b1caedd6b6b8596e56ed73113343987481bc7f6c2c364be4acf3195e6c"
+   "hash": "7cf98e94c12319e51fa9d2df9a092c50e963bf9ab9a03305c139978746ee7963"
   }
  },
  "runtime": {
