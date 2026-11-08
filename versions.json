@@ -28,6 +28,13 @@
  },
  "news": [
   {
+   "v": "4.3.5 · Quem Sabe, Sabe! 0.38.2",
+   "items": [
+    "Quem Sabe, Sabe!: categorias para escolher antes de começar (Geografia, História, Ciência e Natureza, Artes e Letras, Sabores e Tradições, Desporto, Dia a dia e Números), com perguntas novas.",
+    "No menu aparecem as tuas vitórias, o dinheiro ganho no total de todas as partidas e o melhor prémio."
+   ]
+  },
+  {
    "v": "4.3.5",
    "items": [
     "O jogo Linha de Fogo saiu do MALTA."
@@ -64,17 +71,6 @@
    "items": [
     "Ponte Velha: já não se fica preso nas juntas do tabuleiro (não é preciso saltar para andar).",
     "Estaleiro: a vedação à volta já trava, não se atravessa."
-   ]
-  },
-  {
-   "v": "4.3.3 · Quadradinhos 0.38.2 · Cai 0.38.7",
-   "items": [
-    "Quadradinhos: o que se larga (Q) fica no chão a rodar e apanha-se ao passar; blocos partidos e bichos também deixam as coisas no chão.",
-    "Quadradinhos: camas de dois blocos, portas, baús, fornalha a sério (em cima o que se cozinha, em baixo o combustível), tochas na parede, enxada para lavrar e trigo que cresce devagar.",
-    "Quadradinhos: ovos (as galinhas põem; cozinham-se ou atiram-se e às vezes sai um pintainho), vacas, bichos com olhos e mais claros, fantasmas que já não atravessam paredes, inimigos mais fracos e fogo amigo.",
-    "Quadradinhos: a Coca de Monção, um dragão que se chama com o Corno da Coca. F5 para a terceira pessoa, ver os outros agachados e com o que têm na mão, dormir a sério e renascer ao lado da cama.",
-    "Quadradinhos: receitas mais fáceis (separadores, procura e ingredientes com ícones), sons dos bichos e de comer, texturas novas, nuvens sem riscas, sombras sem tremer, sem música de fundo e o rato aparece nos painéis.",
-    "Cai ou Não Cai: muito menos pó no ar e o rato aparece no relatório da obra."
    ]
   }
  ],
@@ -407,40 +403,40 @@
    "hash": "55411456e2c991f5cd3b13b5b70e6d00f9c08de564b750ac9ccd0a743ab364b6"
   },
   "quemsabe": {
-   "version": "0.38.1",
-   "date": "2026-11-07",
-   "size": 6477793,
+   "version": "0.38.2",
+   "date": "2026-11-08",
+   "size": 6493434,
    "files": {
     "index.html": {
-     "size": 6402996,
-     "sha256": "124fccf7ce55d7faa65043e47a5a0ecb9e0cf2bf590c1033e5e340dd9a27603a",
+     "size": 6418637,
+     "sha256": "c77ee8dae6400ff3df17eaa1b35fef88488744594d4ee397920f6ca55e3e8ce3",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/index_html/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/index_html/part00"
      ]
     },
     "cover.png": {
      "size": 16313,
      "sha256": "5e6b3dd7962de283ab565789708909e9b252b871a568738ad5dced050735c278",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/cover_png/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/cover_png/part00"
      ]
     },
     "icon.ico": {
      "size": 57419,
      "sha256": "45c598b913179957812541d0e5c091d80421c2e36fef3a83844298a027f43a64",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/icon_ico/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/icon_ico/part00"
      ]
     },
     "game.json": {
      "size": 1065,
-     "sha256": "3ee5930b61d110ac27e0d2b58da3315b1b9ba8115696687749da24d849906128",
+     "sha256": "99531055624f7128e648910d873ffd90ee8818787d07b9dff75e7a57fa359f75",
      "parts": [
-      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.1/game_json/part00"
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/quemsabe/0.38.2/game_json/part00"
      ]
     }
    },
-   "hash": "338d6ff8b5a91da0a2fa4e343c208f500babaa66c2371f27ade2f06c94320eee"
+   "hash": "33e2c1f85c95deecf9e3fd661b908c5061a870d7409931093f9830b193997d03"
   },
   "cai": {
    "version": "0.38.9",
