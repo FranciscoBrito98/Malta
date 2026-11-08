@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.3.9",
+  "version": "4.4.0",
   "date": "2026-11-08",
-  "size": 84019367,
-  "sha256": "7055b1540a8dd172a37096b11b23f6043474109d4da624143b8a9545d275ced5",
+  "size": 84116769,
+  "sha256": "15b85d358e5d66a680e95064b0d994358ee4f116d2fdd891eccaf46439bf1c9b",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.9/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.9/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.3.9/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.0/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.0/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.0/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.4.0 · Detetives Baratos 0.38.0",
+   "items": [
+    "Jogo novo: Detetives Baratos. História cooperativa em pixel art na Vila do Sossego (inventada): a Agência Lupa Barata resolve casos ridículos, do bacalhau da consoada ao gato desaparecido, até descobrir quem estava sempre por trás de tudo.",
+    "Andem pela vila, examinem pistas, interroguem os vizinhos e mostrem-lhes provas; o caderno da equipa (TAB) junta as pistas, os suspeitos, o dossier do \"G.\" e notas partilhadas.",
+    "Acusar é por votação; uma acusação errada custa uma lupa. Cinco casos seguidos com um confronto final na rádio.",
+    "De 1 a 4 detetives: os amigos entram com o código da sala, também a meio de um caso."
+   ]
+  },
   {
    "v": "Bairro à Venda 0.38.2",
    "items": [
@@ -67,15 +76,6 @@
     "De 2 a 6 jogadores, com bots a completar os lugares. Leilões quando ninguém compra, negócios entre jogadores, hipotecas, Esquadra e cartas do Correio e da Rifa.",
     "Fim por voltas ou até sobrar um; multas para o Jardim e tempo por vez são opções.",
     "Os amigos entram com o código da sala; quem chega a meio fica com o lugar de um bot e quem sai passa a bot."
-   ]
-  },
-  {
-   "v": "4.3.7 · Póquer da Malta 0.38.0",
-   "items": [
-    "Jogo novo: Póquer da Malta. Texas Hold'em em pixel art com fichas a fingir (aqui não se joga dinheiro), de 2 a 8 à mesa, com bots a completar os lugares.",
-    "Dois modos: Torneio (as blinds sobem e ganha o último com fichas) e Mesa livre (blinds fixas, quem fica sem fichas recarrega e no fim fazem-se as contas).",
-    "Bots com feitio próprio (cautelosos, agressivos e de bluff), potes laterais, mostra das cartas com a mão vencedora acesa, histórico (L), ordem das mãos (H) e chat (T).",
-    "Os amigos sentam-se com o código da sala; na mesa livre também dá para entrar a meio."
    ]
   }
  ],
@@ -586,6 +586,42 @@
     }
    },
    "hash": "7cf98e94c12319e51fa9d2df9a092c50e963bf9ab9a03305c139978746ee7963"
+  },
+  "detetives": {
+   "version": "0.38.0",
+   "date": "2026-11-08",
+   "size": 6626310,
+   "files": {
+    "index.html": {
+     "size": 6544094,
+     "sha256": "e3139059381a901a0a80b1272b85e85301dba4a8bd753340a17b488696e8afa6",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/detetives/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 18645,
+     "sha256": "812f3f42a885181d45804a9a599446aa062d716f5cafa9f7deb1bd7050306caf",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/detetives/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 62533,
+     "sha256": "82f372ed30579be0dc65ec49e059ff9058d204f7274fdb2b3f70d60d4de3acb3",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/detetives/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1038,
+     "sha256": "f1614bf1459130acd4c35fe28605ce82a4aa71b8204c4e559f1ba3115a1a7e1a",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/detetives/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "d2ce22dfbfb2622e082f83aec8ec4262d8cc55f88ba73a0ef6a6bb0936c69198"
   }
  },
  "runtime": {
