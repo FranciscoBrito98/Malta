@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.4.0",
-  "date": "2026-11-08",
-  "size": 84116769,
-  "sha256": "15b85d358e5d66a680e95064b0d994358ee4f116d2fdd891eccaf46439bf1c9b",
+  "version": "4.4.1",
+  "date": "2026-11-14",
+  "size": 84202376,
+  "sha256": "147dc394f02ff0d6fe2138ec9f2ca930e6c62e5eaef8d6209cffe06495d69132",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.0/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.0/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.0/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.1/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.1/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.1/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.4.1 · A Última Camioneta 0.38.0",
+   "items": [
+    "Jogo novo: A Última Camioneta. História cooperativa em pixel art: o bolo de casamento da Avó Benedita tem de atravessar o país na Gertrudes, uma camioneta velha, até ao casamento da neta.",
+    "Na estrada cada um corre para um posto: volante, mapa, bolo e motor. Nevoeiro, curvas, calor, vespas, gaivotas, uma galinha à solta e um pasteleiro rival a atirar pregos.",
+    "Nas paragens anda-se a pé, fala-se com as pessoas e resolvem-se os problemas da viagem. Seis capítulos, com estrelas por troço.",
+    "De 1 a 4 amigos com o código da sala, também a meio da viagem."
+   ]
+  },
   {
    "v": "4.4.0 · Detetives Baratos 0.38.0",
    "items": [
@@ -67,15 +76,6 @@
     "Quem Sabe, Sabe!: as perguntas variam mais: cada concurso vai rodando pelas categorias e nunca repete a categoria da pergunta anterior.",
     "Quem Sabe, Sabe!: a conquista O Último em Pé já se ganha quando os outros erram, desistem ou saem e tu continuas.",
     "MALTA: desinstalar um jogo apaga também as sobras de atualizações e motores antigos, mostra quanto espaço libertou e já não falha quando o Windows prende algum ficheiro."
-   ]
-  },
-  {
-   "v": "4.3.8 · Bairro à Venda 0.38.0",
-   "items": [
-    "Jogo novo: Bairro à Venda. Jogo de tabuleiro em pixel art na Vila da Malta (inventada): compra ruas, junta bairros, constrói casas e prédios e cobra rendas. Dinheiro a fingir (patacos).",
-    "De 2 a 6 jogadores, com bots a completar os lugares. Leilões quando ninguém compra, negócios entre jogadores, hipotecas, Esquadra e cartas do Correio e da Rifa.",
-    "Fim por voltas ou até sobrar um; multas para o Jardim e tempo por vez são opções.",
-    "Os amigos entram com o código da sala; quem chega a meio fica com o lugar de um bot e quem sai passa a bot."
    ]
   }
  ],
@@ -622,6 +622,42 @@
     }
    },
    "hash": "d2ce22dfbfb2622e082f83aec8ec4262d8cc55f88ba73a0ef6a6bb0936c69198"
+  },
+  "camioneta": {
+   "version": "0.38.0",
+   "date": "2026-11-14",
+   "size": 6684302,
+   "files": {
+    "index.html": {
+     "size": 6633399,
+     "sha256": "def5344dba356160b21092601fb6a1463c89df834305e346601d83a55c745ed4",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/camioneta/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 9190,
+     "sha256": "952893337052865403281cf3f3769343b37223fa20db9ce2a776155c05d6a0cd",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/camioneta/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 40701,
+     "sha256": "6f4a50fad91ac1b878ae762f8acfcfa5d8abdb756ba78353295b1136b40bae76",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/camioneta/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1012,
+     "sha256": "8afe186934800107da9b3b5d5656f2f1d1868b9a9531a27b880f171ebbfd8fa0",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/camioneta/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "fe3639eadc475d8689913558612d79e7cc4c737ebffa8512ad68666ec69a6811"
   }
  },
  "runtime": {
