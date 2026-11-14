@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.4.3",
+  "version": "4.4.4",
   "date": "2026-11-14",
-  "size": 84364978,
-  "sha256": "7a1230c415ba661ff0537652c430d5d0209a2c91995d9ae34969007f6891718f",
+  "size": 84884091,
+  "sha256": "44fc85c1f1bc90336229fc973d4c5b90b6b97b2cb84ae0fa8c68bf158db4b125",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.3/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.3/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.3/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.4/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.4/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.4/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.4.4",
+   "items": [
+    "Jogo novo: Terra à Vista!, aventura cooperativa em 3D para 1 a 4 jogadores. Quatro cartógrafos naufragados atravessam a Ilha da Bruma em cinco capítulos: praia, selva, Templo do Sol, Gruta dos Cristais e vulcão.",
+    "Puzzles em equipa: caixas e pedras em cima de placas, alavancas, totens, espelhos que levam a luz do sol, braseiros acesos ao mesmo tempo e os anéis de um grande astrolábio.",
+    "Personagens novos (cartógrafos, a Capitã Leonor e o papagaio Almirante, a Dra. Celeste e o Barão de Vasconcelos), música própria e 8 conquistas.",
+    "Os amigos entram a qualquer momento com o código da sala."
+   ]
+  },
   {
    "v": "4.4.3 · Os Pastores e o Lobo 0.38.0",
    "items": [
@@ -70,15 +79,6 @@
     "Bairro à Venda: ecrã arrumado como um tabuleiro clássico: o tabuleiro ao meio, os jogadores à esquerda e só os botões que dão jeito à direita.",
     "Bairro à Venda: no meio do tabuleiro ficam só o nome, os montes do Correio e da Rifa e os dados; as escrituras aparecem quando compras ou passas o rato numa rua.",
     "Bairro à Venda: as tuas ruas e o histórico de jogadas abrem-se com um botão (o histórico também com L)."
-   ]
-  },
-  {
-   "v": "Bairro à Venda 0.38.1",
-   "items": [
-    "Bairro à Venda: a rua à venda aparece como uma escritura, com o preço, todas as rendas e quantas ruas do bairro já tens.",
-    "Bairro à Venda: o meio do tabuleiro mostra de quem é a vez, os dados com a soma, a última jogada e a lista das tuas ruas (clica numa para construir ou hipotecar).",
-    "Bairro à Venda: cada jogador mostra as suas ruas em quadradinhos coloridos e o dinheiro que entra e sai; passa o rato por um jogador para ver as ruas dele no tabuleiro.",
-    "Bairro à Venda: o dono de cada rua aparece numa bolinha da cor dele e a casa onde está o jogador da vez fica acesa."
    ]
   }
  ],
@@ -733,6 +733,42 @@
     }
    },
    "hash": "5bb03f646bb3d703c88a43a99dd407045da56f9577bc2541aa9c67937c2e1dab"
+  },
+  "terra": {
+   "version": "0.38.0",
+   "date": "2026-11-14",
+   "size": 15962478,
+   "files": {
+    "index.html": {
+     "size": 15771168,
+     "sha256": "f7ab49abd28a7040ba33b71368a9ce12bbb47756327d1e1b7ceb82b5cd8f1b19",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/terra/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 79184,
+     "sha256": "77036117c7a9fa50f90c3725c0fc9262650a259729e3506df9cff27b5e864dce",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/terra/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 111084,
+     "sha256": "f2abc1a73b9ea3b8162548aaea1b1730a7c07f8c55b67440fd7599d2079fcd6b",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/terra/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1042,
+     "sha256": "6c8e998169ce3fa6a235a54b7608c574ea220b6c2a82af9c5927f12353151248",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/terra/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "9fd7acf4f9f738b2dc426266a876ef03819a7b42a189a7f8f6c3656a1a1d6dc1"
   }
  },
  "runtime": {
