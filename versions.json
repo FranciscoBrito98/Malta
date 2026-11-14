@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.4.2",
+  "version": "4.4.3",
   "date": "2026-11-14",
-  "size": 84292071,
-  "sha256": "2e4a2af5d41aa09e5d9fa4fe867907d21ef66e78250151623e33eadc203e1ac7",
+  "size": 84364978,
+  "sha256": "7a1230c415ba661ff0537652c430d5d0209a2c91995d9ae34969007f6891718f",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.2/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.2/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.2/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.3/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.3/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.3/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.4.3 · Os Pastores e o Lobo 0.38.0",
+   "items": [
+    "Jogo novo: Os Pastores e o Lobo. Aventura de ação cooperativa em pixel art vista de cima: um lobo enorme de olhos roxos leva os rebanhos da serra e quatro pastores vão atrás dele.",
+    "Cajado, funda e rebolar contra raposas, javalis, corvos, cobras e espíritos da bruma. Chamem as ovelhas perdidas com Q para vos seguirem e levem-nas a salvo.",
+    "Cinco chefes com truques próprios, da Raposa Matreira ao Lobo Cinzento. Quem cai é levantado pelos colegas e as fogueiras guardam o caminho.",
+    "De 1 a 4 amigos com o código da sala, também a meio da aventura."
+   ]
+  },
   {
    "v": "4.4.2 · Os Faroleiros 0.38.0",
    "items": [
@@ -70,12 +79,6 @@
     "Bairro à Venda: o meio do tabuleiro mostra de quem é a vez, os dados com a soma, a última jogada e a lista das tuas ruas (clica numa para construir ou hipotecar).",
     "Bairro à Venda: cada jogador mostra as suas ruas em quadradinhos coloridos e o dinheiro que entra e sai; passa o rato por um jogador para ver as ruas dele no tabuleiro.",
     "Bairro à Venda: o dono de cada rua aparece numa bolinha da cor dele e a casa onde está o jogador da vez fica acesa."
-   ]
-  },
-  {
-   "v": "Quem Sabe, Sabe! 0.38.4",
-   "items": [
-    "Quem Sabe, Sabe!: as vitórias só contam quando chegas ao milhão. A contagem que já tinhas passa a ser a dos milhões ganhos."
    ]
   }
  ],
@@ -694,6 +697,42 @@
     }
    },
    "hash": "8ea889038821a5132418970b23ce336711147927af20f8088908b1b25537deae"
+  },
+  "pastores": {
+   "version": "0.38.0",
+   "date": "2026-11-14",
+   "size": 6610435,
+   "files": {
+    "index.html": {
+     "size": 6552974,
+     "sha256": "2de20a13bea9605553ffa8d351b7037b2877a0c74ce4897cfba9f6c4eb1ecaa8",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pastores/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 11038,
+     "sha256": "57be7d01c06330b41dad1eac4d622957940d0cfa923e6b6f10d3af3bf8cf4e79",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pastores/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 45421,
+     "sha256": "cd713c39afe3b7ce4bd14273903619e02c3f364c061b061b95fcb46fd67d89c3",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pastores/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1002,
+     "sha256": "252286c8b007916657c5c9d0d8d0ea1445a118c867ae8b9107d4cbb73bf41bd1",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/pastores/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "5bb03f646bb3d703c88a43a99dd407045da56f9577bc2541aa9c67937c2e1dab"
   }
  },
  "runtime": {
