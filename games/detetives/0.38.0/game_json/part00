@@ -1,0 +1,43 @@
+{
+ "id": "detetives",
+ "version": "0.38.0",
+ "name": "Detetives Baratos",
+ "sub": "Cinco casos ridículos e um mandante",
+ "tag": "Lupa barata, faro caro.",
+ "accent": "#ffd040",
+ "accent2": "#3a6ad8",
+ "bg": "#141a34",
+ "solo": [
+  "Investigar sozinho",
+  "A agência só contigo"
+ ],
+ "host": [
+  "Abrir a agência à malta",
+  "Até 4 detetives, com código de 4 letras"
+ ],
+ "loading": "A afiar as lupas…",
+ "menu": {
+  "solo": [
+   "Investigar sozinho",
+   "A agência só contigo"
+  ],
+  "host": [
+   "Abrir a agência à malta",
+   "Até 4 detetives, com código de 4 letras"
+  ],
+  "join": "Entrar na agência de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Detetive:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar à investigação",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Sair da agência",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "d2ce22dfbfb2622e082f83aec8ec4262d8cc55f88ba73a0ef6a6bb0936c69198"
+}

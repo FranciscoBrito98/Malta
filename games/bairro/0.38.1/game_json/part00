@@ -1,0 +1,43 @@
+{
+ "id": "bairro",
+ "version": "0.38.1",
+ "name": "Bairro à Venda",
+ "sub": "Compra ruas, constrói, cobra rendas",
+ "tag": "A rua é minha, a renda é tua.",
+ "accent": "#ffd040",
+ "accent2": "#d8423a",
+ "bg": "#10161e",
+ "solo": [
+  "Jogar com bots",
+  "Tabuleiro contra a máquina"
+ ],
+ "host": [
+  "Abrir o tabuleiro à malta",
+  "Até 6 jogadores, com código de 4 letras"
+ ],
+ "loading": "A contar os patacos…",
+ "menu": {
+  "solo": [
+   "Jogar com bots",
+   "Tabuleiro contra a máquina"
+  ],
+  "host": [
+   "Abrir o tabuleiro à malta",
+   "Até 6 jogadores, com código de 4 letras"
+  ],
+  "join": "Entrar no jogo de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Jogador:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar ao tabuleiro",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Sair do jogo",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "8812f3b1caedd6b6b8596e56ed73113343987481bc7f6c2c364be4acf3195e6c"
+}
