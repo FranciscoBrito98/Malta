@@ -17,17 +17,26 @@
   ]
  },
  "launcher": {
-  "version": "4.4.1",
+  "version": "4.4.2",
   "date": "2026-11-14",
-  "size": 84202376,
-  "sha256": "147dc394f02ff0d6fe2138ec9f2ca930e6c62e5eaef8d6209cffe06495d69132",
+  "size": 84292071,
+  "sha256": "2e4a2af5d41aa09e5d9fa4fe867907d21ef66e78250151623e33eadc203e1ac7",
   "parts": [
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.1/part00",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.1/part01",
-   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.1/part02"
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.2/part00",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.2/part01",
+   "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/launcher/4.4.2/part02"
   ]
  },
  "news": [
+  {
+   "v": "4.4.2 · Os Faroleiros 0.38.0",
+   "items": [
+    "Jogo novo: Os Faroleiros. História cooperativa em pixel art na Ilha do Corvo-Marinho: o velho faroleiro desapareceu, há um fantasma à janela e alguém anda a afundar barcos.",
+    "De dia exploram a ilha e falam com quem lá vive. De noite o farol tem de ficar aceso: óleo pelas escadas acima, corda no mecanismo, vidros limpos, buzina no nevoeiro e tábuas nas janelas partidas.",
+    "Os barcos pedem cores de luz pelo rádio, uma gaivota rouba a manivela e um bandido sobe para apagar a candeia. Seis capítulos, com estrelas por noite.",
+    "De 1 a 4 amigos com o código da sala, também a meio da noite."
+   ]
+  },
   {
    "v": "4.4.1 · A Última Camioneta 0.38.0",
    "items": [
@@ -67,15 +76,6 @@
    "v": "Quem Sabe, Sabe! 0.38.4",
    "items": [
     "Quem Sabe, Sabe!: as vitórias só contam quando chegas ao milhão. A contagem que já tinhas passa a ser a dos milhões ganhos."
-   ]
-  },
-  {
-   "v": "4.3.9 · Quem Sabe, Sabe! 0.38.3",
-   "items": [
-    "Quem Sabe, Sabe!: mais 161 perguntas novas (379 no total) e duas categorias novas, Tecnologia e Jogos e Cinema e Música.",
-    "Quem Sabe, Sabe!: as perguntas variam mais: cada concurso vai rodando pelas categorias e nunca repete a categoria da pergunta anterior.",
-    "Quem Sabe, Sabe!: a conquista O Último em Pé já se ganha quando os outros erram, desistem ou saem e tu continuas.",
-    "MALTA: desinstalar um jogo apaga também as sobras de atualizações e motores antigos, mostra quanto espaço libertou e já não falha quando o Windows prende algum ficheiro."
    ]
   }
  ],
@@ -658,6 +658,42 @@
     }
    },
    "hash": "fe3639eadc475d8689913558612d79e7cc4c737ebffa8512ad68666ec69a6811"
+  },
+  "faroleiros": {
+   "version": "0.38.0",
+   "date": "2026-11-14",
+   "size": 6633648,
+   "files": {
+    "index.html": {
+     "size": 6576996,
+     "sha256": "9c9dbfe43224f79e72aefe0bcf7719dc50b1da2c2f744f5f613031415516a308",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/faroleiros/0.38.0/index_html/part00"
+     ]
+    },
+    "cover.png": {
+     "size": 10525,
+     "sha256": "3952f337a16a3d813e97b547a77f5027904b5e228138e9a0edfde7f392b0b564",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/faroleiros/0.38.0/cover_png/part00"
+     ]
+    },
+    "icon.ico": {
+     "size": 45122,
+     "sha256": "093292b17dc57d89c900eeba46f784367f7dea029b1e6e3b153128b9de784893",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/faroleiros/0.38.0/icon_ico/part00"
+     ]
+    },
+    "game.json": {
+     "size": 1005,
+     "sha256": "37fca4d498d386aeab244ca4ccbad78bb611cfba8acebb1f411df59832cc33b0",
+     "parts": [
+      "https://raw.githubusercontent.com/FranciscoBrito98/Malta/builds/games/faroleiros/0.38.0/game_json/part00"
+     ]
+    }
+   },
+   "hash": "8ea889038821a5132418970b23ce336711147927af20f8088908b1b25537deae"
   }
  },
  "runtime": {
