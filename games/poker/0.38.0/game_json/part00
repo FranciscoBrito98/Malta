@@ -1,0 +1,43 @@
+{
+ "id": "poker",
+ "version": "0.38.0",
+ "name": "Póquer da Malta",
+ "sub": "Texas Hold'em com fichas a fingir",
+ "tag": "Cara de pau e nervos de aço.",
+ "accent": "#ffd040",
+ "accent2": "#1f6a3a",
+ "bg": "#100a0c",
+ "solo": [
+  "Jogar com bots",
+  "Mesa contra a máquina"
+ ],
+ "host": [
+  "Abrir a mesa à malta",
+  "Até 8 à mesa, com código de 4 letras"
+ ],
+ "loading": "A baralhar as cartas…",
+ "menu": {
+  "solo": [
+   "Jogar com bots",
+   "Mesa contra a máquina"
+  ],
+  "host": [
+   "Abrir a mesa à malta",
+   "Até 8 à mesa, com código de 4 letras"
+  ],
+  "join": "Sentar na mesa de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Jogador:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar à mesa",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Levantar da mesa",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "0210dfdce22866a3d921650ecd5636959b220d335e9c79ac402f3773342682a3"
+}

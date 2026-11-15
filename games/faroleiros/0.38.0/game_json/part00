@@ -1,0 +1,43 @@
+{
+ "id": "faroleiros",
+ "version": "0.38.0",
+ "name": "Os Faroleiros",
+ "sub": "Um farol, uma ilha e um fantasma",
+ "tag": "Nenhum barco fica nas rochas.",
+ "accent": "#ffd040",
+ "accent2": "#d8423a",
+ "bg": "#141c2c",
+ "solo": [
+  "Guardar o farol sozinho",
+  "A ilha só contigo"
+ ],
+ "host": [
+  "Chamar os faroleiros",
+  "Até 4 amigos, com código de 4 letras"
+ ],
+ "loading": "A encher a candeia…",
+ "menu": {
+  "solo": [
+   "Guardar o farol sozinho",
+   "A ilha só contigo"
+  ],
+  "host": [
+   "Chamar os faroleiros",
+   "Até 4 amigos, com código de 4 letras"
+  ],
+  "join": "Entrar no farol de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Nome:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar ao farol",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Sair da ilha",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "8ea889038821a5132418970b23ce336711147927af20f8088908b1b25537deae"
+}

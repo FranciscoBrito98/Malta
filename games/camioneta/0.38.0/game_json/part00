@@ -1,0 +1,43 @@
+{
+ "id": "camioneta",
+ "version": "0.38.0",
+ "name": "A Última Camioneta",
+ "sub": "Um bolo de casamento pelo país fora",
+ "tag": "Bolo inteiro ou nada.",
+ "accent": "#ffd040",
+ "accent2": "#3a8a6a",
+ "bg": "#1b2a24",
+ "solo": [
+  "Viajar sozinho",
+  "A Gertrudes só contigo"
+ ],
+ "host": [
+  "Juntar a tripulação",
+  "Até 4 amigos, com código de 4 letras"
+ ],
+ "loading": "A encher o radiador…",
+ "menu": {
+  "solo": [
+   "Viajar sozinho",
+   "A Gertrudes só contigo"
+  ],
+  "host": [
+   "Juntar a tripulação",
+   "Até 4 amigos, com código de 4 letras"
+  ],
+  "join": "Entrar na camioneta de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Nome:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar à estrada",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Sair da camioneta",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "fe3639eadc475d8689913558612d79e7cc4c737ebffa8512ad68666ec69a6811"
+}

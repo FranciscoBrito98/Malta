@@ -1,0 +1,43 @@
+{
+ "id": "terra",
+ "version": "0.38.0",
+ "name": "Terra à Vista!",
+ "sub": "Uma expedição à Ilha da Bruma",
+ "tag": "Não se chega a lado nenhum sozinho.",
+ "accent": "#e8c070",
+ "accent2": "#2a7a8a",
+ "bg": "#10201f",
+ "solo": [
+  "Explorar sozinho",
+  "A ilha só contigo"
+ ],
+ "host": [
+  "Juntar a expedição",
+  "Até 4 amigos, com código de 4 letras"
+ ],
+ "loading": "A desdobrar os mapas…",
+ "menu": {
+  "solo": [
+   "Explorar sozinho",
+   "A ilha só contigo"
+  ],
+  "host": [
+   "Juntar a expedição",
+   "Até 4 amigos, com código de 4 letras"
+  ],
+  "join": "Entrar na expedição de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Voltar ao porto",
+  "nameLabel": "Cartógrafo:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar à ilha",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções de som, rato e gráficos",
+   "leave": "Voltar ao menu",
+   "exit": "Voltar ao porto (fechar o jogo)"
+  }
+ },
+ "hash": "9fd7acf4f9f738b2dc426266a876ef03819a7b42a189a7f8f6c3656a1a1d6dc1"
+}

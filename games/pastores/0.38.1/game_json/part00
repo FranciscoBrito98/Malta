@@ -1,0 +1,43 @@
+{
+ "id": "pastores",
+ "version": "0.38.1",
+ "name": "Os Pastores e o Lobo",
+ "sub": "Cajado, funda e um lobo enfeitiçado",
+ "tag": "Nenhuma ovelha fica para trás.",
+ "accent": "#e8c870",
+ "accent2": "#5a9a3a",
+ "bg": "#1a2414",
+ "solo": [
+  "Pastar sozinho",
+  "A serra só contigo"
+ ],
+ "host": [
+  "Juntar os pastores",
+  "Até 4 amigos, com código de 4 letras"
+ ],
+ "loading": "A contar as ovelhas…",
+ "menu": {
+  "solo": [
+   "Pastar sozinho",
+   "A serra só contigo"
+  ],
+  "host": [
+   "Juntar os pastores",
+   "Até 4 amigos, com código de 4 letras"
+  ],
+  "join": "Entrar no rebanho de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Nome:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar à serra",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Descer da serra",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "a134aeb5cd53e20ae9045183dd39c76e335fdb5fe8e988abad9bb5cab36ee662"
+}

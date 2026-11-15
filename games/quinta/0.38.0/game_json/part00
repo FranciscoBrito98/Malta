@@ -1,0 +1,43 @@
+{
+ "id": "quinta",
+ "version": "0.38.0",
+ "name": "Traidor na Quinta",
+ "sub": "Há um sabotador na vindima",
+ "tag": "Fazem a vindima. Um de vocês não.",
+ "accent": "#e8c870",
+ "accent2": "#5a1a2a",
+ "bg": "#140c18",
+ "solo": [
+  "Jogar com bots",
+  "Treinar contra a máquina"
+ ],
+ "host": [
+  "Abrir a quinta à malta",
+  "Até 12 jogadores, com código de 4 letras"
+ ],
+ "loading": "A apanhar as uvas…",
+ "menu": {
+  "solo": [
+   "Jogar com bots",
+   "Treinar contra a máquina"
+  ],
+  "host": [
+   "Abrir a quinta à malta",
+   "Até 12 jogadores, com código de 4 letras"
+  ],
+  "join": "Entrar na quinta de um amigo",
+  "joinShort": "Código:",
+  "opts": "Opções",
+  "exit": "Ir para casa",
+  "nameLabel": "Vindimador:",
+  "pause": {
+   "title": "Pausa",
+   "resume": "Voltar à vindima",
+   "invite": "Convidar amigos (Shift+Tab)",
+   "opts": "Opções",
+   "leave": "Voltar ao menu",
+   "exit": "Ir para casa (fechar o jogo)"
+  }
+ },
+ "hash": "6561ed9e3af16337eb86e4f201bd206910d8e76b0a9ab39fd0e04ce2e606923c"
+}
